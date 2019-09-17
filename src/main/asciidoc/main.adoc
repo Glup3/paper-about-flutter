@@ -17,6 +17,8 @@ include::introduction.adoc[]
 
 <<<
 
+include::advantages.adoc[]
+
 == Chapter 1
 
 Content of chapter 1.
@@ -24,6 +26,8 @@ Content of chapter 1.
 == What is it good for?
 
 == What is it not good for?
+
+== How does Flutter work under the hood?
 
 == How do I start?
 
@@ -41,10 +45,14 @@ Here one should write the summary of the paper. It's usually between 1 and 5 par
 [cols="40,20,40", options="header"]
 |===
 | URL
-| Datum
-| Anmerkung
+| Date
+| Short Description
 
-| http://www.kurier.at[Kurier]
-| 2017-11-28
-| Klaus UNGER
+| https://blog.codemagic.io/what-is-flutter-benefits-and-limitations/[Codemagic]
+| 2019-09-17
+| Advantages & Limitations of Flutter
+
+| https://flutter.dev/docs/development/tools/hot-reload[flutter.dev]
+| 2019-09-17
+| Hot Reload
 |===

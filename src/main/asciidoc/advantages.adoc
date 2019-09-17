@@ -1,0 +1,24 @@
+== When to use Flutter / Advantages
+
+This chapter is about the advantages of Flutter and when to use it.
+
+=== Cross-Platform
+
+The main advantage is that you develop for multiple operating systems at the same time.
+It is only necessary to maintain one code base which leads to high productivity and resource savings.
+
+=== Great performance
+
+Dart compiles the files into native code and this runs super fast on the respective operating systems.
+Fast startup times and butter smooth performance is always welcomed.
+
+=== Open-source
+
+The community behind Flutter is growing in a rapid pace. Everyone can contribute and help to make it
+even more awesome.
+
+=== Fast development
+
+One of the best features is "Hot Reload". Edited source code gets automatically injected into the running
+`Dart Virtual Machine`. The changes are getting updated in real time and a restart is not required.
+This allows fast and quick development.

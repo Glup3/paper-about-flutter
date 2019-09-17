@@ -16,3 +16,18 @@ source: http://asciidoc.org/ (17th September 2019)
 
 I love the fact that you can develop for IOS and Android with one code base.
 This brings a lot of advantages and if needed you can also add your own native code! 
+
+## How to build the PDF
+
+### Requirements
+
+- Maven or Maven Wrapper (already included)
+- Java 8 (incompatible with newer versions)
+
+### Steps
+
+1) clone this repository
+2) select Java 8, if you haven't already
+3) `./mvnw clean package` or `mvn clean package`
+
+This should generate a target folder with PDFs and images.

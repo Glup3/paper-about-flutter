@@ -1,5 +1,5 @@
 == Introduction
 
-Flutter is a framework developed by Google to create cross-platform mobile apps.
+Flutter is an open-source framework developed by Google to create cross-platform mobile apps.
 The framework is on top of the programming language `Dart`, an object-orientated language.
 It is possible to develop mobile apps for IOS and Android through one code base.
