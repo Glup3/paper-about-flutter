@@ -13,9 +13,7 @@ ifdef::backend-pdf[:imagesdir: ../../../build/asciidoc/{backend}/images]
 
 include::abstract.adoc[]
 
-== Introduction
-
-What Flutter is all about
+include::introduction.adoc[]
 
 <<<
 
@@ -39,7 +37,7 @@ Here one should write the summary of the paper. It's usually between 1 and 5 par
 
 == Resources
 
-.Quellen
+.Resources
 [cols="40,20,40", options="header"]
 |===
 | URL
