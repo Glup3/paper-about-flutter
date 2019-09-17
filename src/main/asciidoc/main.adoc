@@ -11,27 +11,33 @@ ifdef::backend-pdf[:imagesdir: ../../../build/asciidoc/{backend}/images]
 // this renders a dynamic table of content
 :toc:
 
-== Abstract
-
-Here one should write the abstract of the paper. It is usually between 1 and 3 paragraphs long.
+include::abstract.adoc[]
 
 == Introduction
 
-Here goes the introduction into the topic.
+What Flutter is all about
 
 <<<
 
-=== Chapter 1
+== Chapter 1
 
 Content of chapter 1.
 
-=== Summary
+== What is it good for?
+
+== What is it not good for?
+
+== How do I start?
+
+== Which errors or mistakes can I omit?
+
+== Summary
 
 Here one should write the summary of the paper. It's usually between 1 and 5 paragraphs long.
 
 <<<
 
-=== Resources
+== Resources
 
 .Quellen
 [cols="40,20,40", options="header"]

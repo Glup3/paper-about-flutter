@@ -1,0 +1,4 @@
+== Abstract
+
+The purpose of this paper is to give an brief overwiew about what `Flutter` is and how to begin with it.
+Furthermore there will be references to advanced topics and resources in general.
