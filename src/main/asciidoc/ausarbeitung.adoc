@@ -1,0 +1,46 @@
+= Flutter
+Phuc TRAN <tra17719@spengergasse.at>
+v1.0, 2019-09-17
+:example-caption!:
+:media: prepress
+:icons: font
+
+ifdef::backend-pdf[:imagesoutdir: ../../../build/asciidoc/{backend}/images]
+ifdef::backend-pdf[:imagesdir: ../../../build/asciidoc/{backend}/images]
+
+// this renders a dynamic table of content
+:toc:
+
+== Abstract
+
+Here one should write the abstract of the paper. It is usually between 1 and 3 paragraphs long.
+
+== Introduction
+
+Here goes the introduction into the topic.
+
+<<<
+
+=== Chapter 1
+
+Content of chapter 1.
+
+=== Summary
+
+Here one should write the summary of the paper. It's usually between 1 and 5 paragraphs long.
+
+<<<
+
+=== Resources
+
+.Quellen
+[cols="40,20,40", options="header"]
+|===
+| URL
+| Datum
+| Anmerkung
+
+| http://www.kurier.at[Kurier]
+| 2017-11-28
+| Klaus UNGER
+|===
