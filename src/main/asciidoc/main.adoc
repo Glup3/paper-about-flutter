@@ -19,6 +19,8 @@ include::introduction.adoc[]
 
 include::advantages.adoc[]
 
+include::disadvantages.adoc[]
+
 == Chapter 1
 
 Content of chapter 1.
