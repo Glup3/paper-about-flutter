@@ -1,0 +1,5 @@
+== Flutter under the hood
+
+How does Flutter work? What's the secret behind this framework?
+
+//TODO insert nice pictures and a description

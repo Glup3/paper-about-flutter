@@ -15,23 +15,17 @@ include::abstract.adoc[]
 
 include::introduction.adoc[]
 
-<<<
-
 include::advantages.adoc[]
 
 include::disadvantages.adoc[]
 
-== Chapter 1
+include::flutter-under-the-hood.adoc[]
 
-Content of chapter 1.
+include::how-to-start.adoc[]
 
-== What is it good for?
+include::state-managment.adoc[]
 
-== What is it not good for?
-
-== How does Flutter work under the hood?
-
-== How do I start?
+include::advanced-topics.adoc[]
 
 == Which errors or mistakes can I omit?
 
@@ -57,4 +51,8 @@ Here one should write the summary of the paper. It's usually between 1 and 5 par
 | https://flutter.dev/docs/development/tools/hot-reload[flutter.dev]
 | 2019-09-17
 | Hot Reload
+
+| https://flutter.dev/docs/development/data-and-backend/state-mgmt/options[flutter.dev]
+| 2019-09-23
+| State Management Solutions
 |===

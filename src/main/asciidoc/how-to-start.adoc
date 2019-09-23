@@ -1,0 +1,26 @@
+== Starting point
+
+=== Widgets
+
+In Flutter every component is a so called `Widget`. Every UI element is a widget
+and multiple widgets are combined to create more complex structures / widgets.
+Everything is a widget! There are two kinds of widgets: `stateful` & `stateless`
+
+=== Stateful vs Stateless
+
+The difference is that when the state in a `stateful widget` changes, the UI also
+updates and displays the change. Best practise is to only use stateful widgets when state
+is needed. Keep stateless widgets simple and dumb.
+
+=== Installation
+
+Just follow this awesome installation guide from the official website: https://flutter.dev/docs/get-started/install
+
+=== IDE
+
+There are three editors which are supported by Flutter by plugins. It is highly recommended
+to use these: `IntelliJ`,  `Android Studio`  or  `Visual Studio Code`. Awesome guide: https://flutter.dev/docs/get-started/editor?tab=vscode
+
+=== First App
+
+//TODO more chapters on how to start

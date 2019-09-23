@@ -1,0 +1,14 @@
+== Advanced Topics
+
+This section is about things that can be implemented to improve and augment the app.
+
+=== Testing
+
+=== Animations with Flare
+
+=== REST & GraphQL
+
+=== Continuous Integration & Continuous Development
+
+=== Internationalizing
+

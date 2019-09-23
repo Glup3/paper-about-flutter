@@ -1,0 +1,17 @@
+== State Management
+
+The problem is that the application needs the same state in different locations. One way to solve
+this is to pass down the state through the constructor. This solution is not scalable and it
+can get really messy. Most common solutions: https://flutter.dev/docs/development/data-and-backend/state-mgmt/options
+
+=== Inherited Widget & Inherited Model
+
+//TODO briefly explain how each solution works
+
+=== Provider & Scoped Model
+
+=== Redux
+
+=== BLoC / Rx
+
+=== MobX
