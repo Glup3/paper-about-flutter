@@ -1,0 +1,25 @@
+== Resources
+
+.Resources
+[cols="40,20,40", options="header"]
+|===
+| URL
+| Date
+| Short Description
+
+| https://blog.codemagic.io/what-is-flutter-benefits-and-limitations/[Codemagic]
+| 2019-09-17
+| Advantages & Limitations of Flutter
+
+| https://flutter.dev/docs/development/tools/hot-reload[flutter.dev]
+| 2019-09-17
+| Hot Reload
+
+| https://flutter.dev/docs/development/data-and-backend/state-mgmt/options[flutter.dev]
+| 2019-09-23
+| State Management Solutions
+
+| https://flutter.dev/docs/testing[flutter.dev]
+| 2019-10-02
+| Testing in Flutter
+|===

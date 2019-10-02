@@ -47,7 +47,7 @@ heading:
   margin_bottom: $vertical_rhythm
   image_vertical_align: top
 link:
-  font_color: #009900
+  font_color: #3d49db
 outline_list:
   indent: $base_font_size * 1.5
 header:

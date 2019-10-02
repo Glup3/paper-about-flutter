@@ -108,7 +108,7 @@
                                 <imagesdir>${project.build.pdf.directory}/images</imagesdir>
                                 <imagesoutdir>${project.build.pdf.directory}/images</imagesoutdir>
                                 <pdf-stylesdir>${project.basedir}/src/main/themes/pdf</pdf-stylesdir>
-                                <pdf-style>spengergasse_blue</pdf-style>
+                                <pdf-style>spengergasse</pdf-style>
                                 <!--<pdf-style>twinformatics</pdf-style>-->
                             </attributes>
                         </configuration>

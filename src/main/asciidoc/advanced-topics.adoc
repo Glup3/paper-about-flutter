@@ -4,6 +4,60 @@ This section is about things that can be implemented to improve and augment the 
 
 === Testing
 
+If the application is getting big then it is time to think about automated testing. It helps to ensure
+that the app performs correctly without errors.
+There are 3 ways to test a flutter app: Unit, Widget and Integration tests.
+
+For more information visit: https://flutter.dev/docs/testing
+
+.Comparison
+[cols="20,20,20,20", options="header"]
+|===
+|
+| Unit
+| Widget
+| Integration
+
+| Confidence
+| Low
+| Higher
+| Highest
+
+| Maintenance cost
+| Low
+| Higher
+| Highest
+
+| Dependencies
+| Few
+| More
+| Most
+
+| Execution speed
+| Quick
+| Slower
+| Slowest
+|===
+
+==== Unit Test
+
+The smallest and fastest test. The goal is to test a single function, method or class.
+
+More info: https://flutter.dev/docs/cookbook/testing/unit/introduction
+
+==== Widget Test
+
+The goal of this test is to ensure that the UI works properly, for example user interaction.
+
+More info: https://flutter.dev/docs/cookbook/testing/widget/introduction
+
+==== Integration Test
+
+The biggest test is an integration test. The goal is to test a large part of the application and
+to see if the components are working in harmony.
+
+More info: https://flutter.dev/docs/cookbook/testing/integration/introduction
+
 === Animations with Flare
 
 === REST & GraphQL
