@@ -76,12 +76,59 @@ It is really simple. Just add the package called `flare_flutter`, add the widget
 
 *Done.* So easy and fast.
 
+.example.dart
+[source,dart]
+----
+import 'package:flare_flutter/flare_actor.dart';
+class MyHomePage extends StatefulWidget {
+  @override
+  _MyHomePageState createState() => new _MyHomePageState();
+}
+
+class _MyHomePageState extends State<MyHomePage> {
+  @override
+  Widget build(BuildContext context) {
+    return new FlareActor("assets/Filip.flr", alignment:Alignment.center, fit:BoxFit.contain, animation:"idle");
+  }
+}
+----
+
 Plugin: https://pub.dev/packages/flare_flutter +
 Example Animations: https://www.2dimensions.com/explore/popular/trending/all
 
 === REST & GraphQL
 
+==== REST
+
+The application will probably need some communication with an external interface. The most common way is to do
+it with REST. +
+Example guide: https://flutter.dev/docs/cookbook/networking/fetch-data
+
+==== GraphQL
+
+The other really trending way is to use GraphQl. The advantage is that you only get the specific data you want.
+This minimizes the transfer of data over the internet!
+
+The only way at the moment to use GraphQl is to implement the package `graphql_flutter`. +
+Package: https://github.com/zino-app/graphql-flutter/tree/master/packages/graphql_flutter
+
+The package is [.line-through]#stolen# heavily inspired by Apollo, the biggest player in GraphQL integration in web development.
+
 === Continuous Integration & Continuous Development
+
+It is possible to automatically build and publish the application. There are multiple ways to achieve this like for example with:
+
+* Fastlane
+* GitLab
+* Codemagic
+* Bitrise
+
+The easiest way to integrate CI/CD is to use Codemagic. It offers all the tools you need and there is a free plan. +
+Codemagic: https://codemagic.io/start/
+
+The official flutter site published a really good guide to setup Fastlane: https://flutter.dev/docs/deployment/cd
 
 === Internationalizing
 
+Internationalizing is the technical term for supporting multiple speaking languages.
+Here is a good guide on how to support multiple languages: https://flutter.dev/docs/development/accessibility-and-localization/internationalization

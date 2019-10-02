@@ -4,6 +4,7 @@ v1.0, 2019-09-17
 :example-caption!:
 :media: prepress
 :icons: font
+:source-highlighter: rouge
 
 ifdef::backend-pdf[:imagesoutdir: ../../../build/asciidoc/{backend}/images]
 ifdef::backend-pdf[:imagesdir: ../../../build/asciidoc/{backend}/images]

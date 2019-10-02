@@ -26,4 +26,20 @@
 | https://www.2dimensions.com/about-flare[2Dimensions]
 | 2019-10-02
 | Flare Homepage
+
+| https://flutter.dev/docs/development/accessibility-and-localization/internationalization[flutter.dev]
+| 2019-10-02
+| Internationalizing
+
+| https://flutter.dev/docs/deployment/cd[flutter.dev]
+| 2019-10-02
+| Continuous Delivery
+
+| https://flutter.dev/docs/cookbook/networking/fetch-data[flutter.dev]
+| 2019-10-02
+| Using REST
+
+| https://github.com/zino-app/graphql-flutter/tree/master/packages/graphql_flutter[Graphql_Flutter]
+| 2019-10-02
+| Using GraphQL
 |===
