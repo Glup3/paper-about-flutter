@@ -22,4 +22,8 @@
 | https://flutter.dev/docs/testing[flutter.dev]
 | 2019-10-02
 | Testing in Flutter
+
+| https://www.2dimensions.com/about-flare[2Dimensions]
+| 2019-10-02
+| Flare Homepage
 |===

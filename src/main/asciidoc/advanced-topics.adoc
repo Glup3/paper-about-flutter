@@ -60,6 +60,25 @@ More info: https://flutter.dev/docs/cookbook/testing/integration/introduction
 
 === Animations with Flare
 
+==== What is Flare?
+
+[quote, Official Website]
+Flare is a powerful design and animation tool, which allows designers and developers to easily add high-quality animation to their apps and games.
+
+==== Why should you use it?
+
+It allows to create awesome looking animations in a short period of time. It is really easy to learn and the animations
+are super smooth!
+
+==== Implementation
+
+It is really simple. Just add the package called `flare_flutter`, add the widget and make a reference to the Flare file.
+
+*Done.* So easy and fast.
+
+Plugin: https://pub.dev/packages/flare_flutter +
+Example Animations: https://www.2dimensions.com/explore/popular/trending/all
+
 === REST & GraphQL
 
 === Continuous Integration & Continuous Development
