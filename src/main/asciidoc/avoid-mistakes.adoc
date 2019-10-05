@@ -1,0 +1,6 @@
+== Which errors or mistakes can I omit?
+
+* not actively programming
+* Flutter Path not added to the env variables
+* not browsing through the `widget catalog`
+* file names in camel case

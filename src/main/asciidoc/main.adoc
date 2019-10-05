@@ -36,7 +36,9 @@ include::state-managment.adoc[]
 
 include::advanced-topics.adoc[]
 
-== Which errors or mistakes can I omit?
+include::avoid-mistakes.adoc[]
+
+<<<
 
 == Summary
 
