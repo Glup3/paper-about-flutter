@@ -2,11 +2,11 @@
 
 The problem is that the application needs the same state in different locations. One way to solve
 this is to pass down the state through the constructor. This solution is not scalable and it
-can get really messy. Most common solutions: https://flutter.dev/docs/development/data-and-backend/state-mgmt/options
+can get really messy. Most common solutions are listed here: https://flutter.dev/docs/development/data-and-backend/state-mgmt/options
 
 === Inherited Widget
 
-An Inherited Widget acts like a root widget, which can be accessible from every other widget. It doesn't matter
+An Inherited Widget acts like a root widget, which can be accessed from every other widget. It doesn't matter
 how deep it is in the widget tree.
 
 Here is a awesome video explanation to Inherited Widget: https://www.youtube.com/watch?v=Zbm3hjPjQMk
@@ -27,14 +27,16 @@ Redux is a unidirectional data flow architecture that makes it easy to develop, 
 .Redux Data Flow
 image::../images/redux-architecture.png[link="https://blog.novoda.com/introduction-to-redux-in-flutter/"]
 
-For more information visit this awesome blog post: https://blog.novoda.com/introduction-to-redux-in-flutter/
+For more information visit this awesome blog post: +
+https://blog.novoda.com/introduction-to-redux-in-flutter/
 
 === BLoC / Rx
 
 .BLoC Pattern
 image::../images/bloc_architecture.png[link="https://pub.dev/packages/bloc"]
 
-Here is a detailed blog post on how BLoC works: https://www.didierboelens.com/2018/08/reactive-programming---streams---bloc/
+Here is a detailed blog post on how BLoC works: +
+https://www.didierboelens.com/2018/08/reactive-programming---streams---bloc/
 
 === MobX
 

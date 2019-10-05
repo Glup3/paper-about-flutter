@@ -109,16 +109,16 @@ Example guide: https://flutter.dev/docs/cookbook/networking/fetch-data
 The other really trending way is to use GraphQl. The advantage is that you only get the specific data you want.
 This minimizes the transfer of data over the internet!
 
-The only way at the moment to use GraphQl is to implement the package `graphql_flutter`. +
-Package: https://github.com/zino-app/graphql-flutter/tree/master/packages/graphql_flutter
+The only way at the moment to use GraphQl is to implement the package `graphql_flutter`. The package
+is [.line-through]#stolen# heavily inspired by Apollo, the biggest player in GraphQL integration in web development.
 
-The package is [.line-through]#stolen# heavily inspired by Apollo, the biggest player in GraphQL integration in web development.
+Package: https://github.com/zino-app/graphql-flutter/tree/master/packages/graphql_flutter
 
 <<<
 
 === Continuous Integration & Continuous Development
 
-It is possible to automatically build and publish the application. There are multiple ways to achieve this like for example with:
+It is possible to automatically build and publish the application. There are multiple ways to achieve this, for example with:
 
 * Fastlane
 * GitLab

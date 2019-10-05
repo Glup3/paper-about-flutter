@@ -1,6 +1,6 @@
 = Flutter
 Phuc TRAN <tra17719@spengergasse.at>
-v1.0, 2019-09-17
+v1.0, 2019-10-05
 :example-caption!:
 :media: prepress
 :icons: font

@@ -8,4 +8,4 @@ However, the big community is constantly creating new awesome libraries
 === Error Logs
 
 If an error occurs, then it is not always easy to understand what failed. However, the Flutter
-team improved the error message structure, which helps a little (Flutter version 1.9).
+team improved the error message structure (in Flutter version 1.9), which helps a little.

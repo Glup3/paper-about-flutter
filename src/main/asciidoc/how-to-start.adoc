@@ -9,7 +9,7 @@ Everything is a widget! There are two kinds of widgets: `stateful` & `stateless`
 It is highly recommended to browse through the widget catalog: +
 https://flutter.dev/docs/development/ui/widgets
 
-=== Stateful vs Stateless
+==== Stateful vs Stateless
 
 The difference is that when the state in a `stateful widget` changes, the UI also
 updates and displays the change. Best practise is to only use stateful widgets when state
@@ -22,8 +22,8 @@ https://flutter.dev/docs/get-started/install
 
 === IDE
 
-There are three editors which are supported by Flutter by plugins. It is highly recommended
-to use these: `IntelliJ`,  `Android Studio`  or  `Visual Studio Code`. Awesome guide: +
+There are three editors which are supported by Flutter via plugins. It is highly recommended
+to use one or all of these: `IntelliJ`,  `Android Studio`  or  `Visual Studio Code`. Awesome guide: +
 https://flutter.dev/docs/get-started/editor?tab=vscode
 
 === Guides

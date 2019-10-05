@@ -6,4 +6,5 @@ How does Flutter work? What's the secret behind this framework?
 image::../images/flutter-system-overview.png[link="https://flutter.dev/docs/resources/technical-overview"]
 
 If you really wanna know how it works then visit this link for an excellent documentation
-about how Flutter works: https://flutter.dev/docs/resources/technical-overview
+about how Flutter works: +
+https://flutter.dev/docs/resources/technical-overview
