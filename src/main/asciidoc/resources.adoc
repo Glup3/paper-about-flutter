@@ -42,4 +42,8 @@
 | https://github.com/zino-app/graphql-flutter/tree/master/packages/graphql_flutter[Graphql_Flutter]
 | 2019-10-02
 | Using GraphQL
+
+| https://flutter.dev/docs/resources/technical-overview[flutter.dev]
+| 2019-10-05
+| Flutter Technical Overview
 |===
