@@ -40,9 +40,7 @@ include::avoid-mistakes.adoc[]
 
 <<<
 
-== Summary
-
-Here one should write the summary of the paper. It's usually between 1 and 5 paragraphs long.
+include::summary.adoc[]
 
 <<<
 

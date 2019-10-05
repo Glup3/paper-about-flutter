@@ -1,0 +1,10 @@
+== Summary
+
+Flutter is an open-source framework developed by Google to create cross-platform mobile apps.
+The framework is on top of the programming language `Dart`, an object-orientated language.
+It is possible to develop mobile apps for IOS and Android through one code base.
+
+The advantages are: Cross-Platform & One Codebase, Great Performance, Open-Source and Fast Development (Hot Reload) +
+The disadvantages are: Limited 3rd Party Libraries and Error Logs
+
+There are a lot of great resources to start with Flutter, even for advanced topics like testing, animations, APIs and CI/CD.
