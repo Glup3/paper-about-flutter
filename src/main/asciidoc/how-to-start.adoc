@@ -6,6 +6,9 @@ In Flutter every component is a so called `Widget`. Every UI element is a widget
 and multiple widgets are combined to create more complex structures / widgets.
 Everything is a widget! There are two kinds of widgets: `stateful` & `stateless`
 
+It is highly recommended to browse through the widget catalog: +
+https://flutter.dev/docs/development/ui/widgets
+
 === Stateful vs Stateless
 
 The difference is that when the state in a `stateful widget` changes, the UI also
@@ -14,13 +17,23 @@ is needed. Keep stateless widgets simple and dumb.
 
 === Installation
 
-Just follow this awesome installation guide from the official website: https://flutter.dev/docs/get-started/install
+Just follow this awesome installation guide from the official website: +
+https://flutter.dev/docs/get-started/install
 
 === IDE
 
 There are three editors which are supported by Flutter by plugins. It is highly recommended
-to use these: `IntelliJ`,  `Android Studio`  or  `Visual Studio Code`. Awesome guide: https://flutter.dev/docs/get-started/editor?tab=vscode
+to use these: `IntelliJ`,  `Android Studio`  or  `Visual Studio Code`. Awesome guide: +
+https://flutter.dev/docs/get-started/editor?tab=vscode
 
-=== First App
+=== Guides
 
-//TODO more chapters on how to start
+Here is a list of tutorials, guides, resources to get started:
+
+* https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ[The Net Ninja (Youtube)]
+* https://www.youtube.com/c/devglup3[Dev Glup3 (Youtube)]
+* https://flutter.dev/docs/get-started/codelab[Flutter Dev]
+* https://medium.com/aviabird/flutter-tutorial-how-to-build-an-app-from-scratch-b88d4e0e10d7[Medium Aviabird]
+* https://www.raywenderlich.com/4529993-getting-started-with-flutter[Raywenderlich Course]
+* https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/[Udemy Course]
+* https://www.udemy.com/course/flutter-bootcamp-with-dart/[Udemy Course - Google]

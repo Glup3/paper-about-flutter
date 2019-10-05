@@ -16,15 +16,23 @@ include::abstract.adoc[]
 
 include::introduction.adoc[]
 
+include::flutter-under-the-hood.adoc[]
+
+<<<
+
 include::advantages.adoc[]
+
+<<<
 
 include::disadvantages.adoc[]
 
-include::flutter-under-the-hood.adoc[]
-
 include::how-to-start.adoc[]
 
+<<<
+
 include::state-managment.adoc[]
+
+<<<
 
 include::advanced-topics.adoc[]
 

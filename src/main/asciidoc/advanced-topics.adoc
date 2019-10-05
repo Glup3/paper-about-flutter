@@ -114,6 +114,8 @@ Package: https://github.com/zino-app/graphql-flutter/tree/master/packages/graphq
 
 The package is [.line-through]#stolen# heavily inspired by Apollo, the biggest player in GraphQL integration in web development.
 
+<<<
+
 === Continuous Integration & Continuous Development
 
 It is possible to automatically build and publish the application. There are multiple ways to achieve this like for example with:

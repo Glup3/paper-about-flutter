@@ -17,6 +17,8 @@ This solution is build on top of Inherited Widget and adds some additional funct
 
 For more information visit this awesome blog post: https://fluttercrashcourse.com/blog/scoped-model-goto
 
+<<<
+
 === Redux
 
 [quote, Xavi Rigau]
