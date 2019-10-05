@@ -31,7 +31,8 @@ title_page:
   logo:
     align: right
     image: image:spengergasse-logo.png[pdfwidth=50%]
-    top: 0%
+    top: 80%
+  background_image: flutter-logo.png
 page:
   layout: portrait
   margin: [25mm, 20mm, 15mm, 20mm]
