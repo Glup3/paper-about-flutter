@@ -46,4 +46,28 @@
 | https://flutter.dev/docs/resources/technical-overview[flutter.dev]
 | 2019-10-05
 | Flutter Technical Overview
+
+| https://www.youtube.com/watch?v=Zbm3hjPjQMk[Youtube]
+| 2019-10-05
+| Inherited Widget Video Explanation
+
+| https://fluttercrashcourse.com/blog/scoped-model-goto[Flutter Crash Course]
+| 2019-10-05
+| Scoped Model Explanation
+
+| https://blog.novoda.com/introduction-to-redux-in-flutter/[Blog Novoda]
+| 2019-10-05
+| Redux Flutter Introduction
+
+| https://pub.dev/packages/bloc[Flutter Package]
+| 2019-10-05
+| BLoC Flutter Package
+
+| https://www.didierboelens.com/2018/08/reactive-programming---streams---bloc/[Didierboelens]
+| 2019-10-05
+| BLoC Detailed Explanation
+
+| https://pub.dev/packages/mobx[Flutter Package]
+| 2019-10-05
+| MobX Flutter Package
 |===
