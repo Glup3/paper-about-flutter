@@ -1,0 +1,5 @@
+== Competitors
+Flutter is not then only way to develop cross-platform mobile apps. There are alternatives
+like `React Native`, `Xamarin`, `Phonegap`, `Ionic` and many more.
+
+They all have pros and cons and this paper will show you why you should use Flutter.

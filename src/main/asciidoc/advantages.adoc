@@ -1,7 +1,4 @@
 == When to use Flutter / Advantages
-
-This chapter is about the advantages of Flutter and when to use it.
-
 === Cross-Platform
 
 The main advantage is that you develop for multiple operating systems at the same time.

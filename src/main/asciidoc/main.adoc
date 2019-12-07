@@ -19,6 +19,8 @@ include::flutter-under-the-hood.adoc[]
 
 <<<
 
+include::competitors.adoc[]
+
 include::advantages.adoc[]
 
 <<<

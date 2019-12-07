@@ -1,7 +1,4 @@
 == Advanced Topics
-
-This section is about things that can be implemented to improve and augment the app.
-
 === Testing
 
 If the application is getting big then it is time to think about automated testing. It helps to ensure
